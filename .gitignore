@@ -36,3 +36,17 @@
 /WpfFontBmpWriter/obj
 /SharedUtility/DDSTextureLoader/DDSTextureLoader.h
 /SharedUtility/DDSTextureLoader/DDSTextureLoader.cpp
+
+# CMake build directories and files
+/build/
+/build_*/
+/out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake.in
+CTestTestfile.cmake
+_deps/
+install_manifest.txt
+compile_commands.json
+sample_data/
